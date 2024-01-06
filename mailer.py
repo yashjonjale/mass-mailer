@@ -14,9 +14,7 @@ def read_body_from_file(filename, format="plain"):
 
 # Email credentials and settings
 sender_email = "yash.jonjale@iitb.ac.in"  # Replace with your email
-password = "976076567de022fd0d31009d0ae15f3a"  # Replace with your password
-password2="Qaz@1234"
-password3="twtaogdcarbegumt"
+passwprd=""
 smtp_server = "smtp-auth.iitb.ac.in"
 smtp_server1="smtp.gmail.com" 
 port = 587
